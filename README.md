@@ -1,33 +1,33 @@
-# 2019-ITCS371-1-Brobably
+# ITCS371-PJ_Brobably
 We are **group #8** named Brobably!
 
 ## Table of Contents
-- [About Us](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#about-us)
-    - [Problems](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#problems)
-    - [Wishlist](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#wishlist)
-    - [Our Members](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#our-members)
-- [Customer 7 - Please Give A](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#customer-7---please-give-a)
-    - [Business Domain](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#business-domain)
-    - [Requirements](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#requirements)
-        - [Functional Requirements](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#functional-requirements)
-            - [Overall](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#overall)
-            - [📱 Mobile Application](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-mobile-application)
-            - [💻 Website](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-website)
-            - [🎫 Booking System](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-booking-system)
-            - [🚇 Metro Train Check-in/out System](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-metro-train-check-inout-system)
-            - [⚙ Server](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-server)
-            - [❔ Other](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#-other)
-        - [Non-functional Requirements](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#non-functional-requirements)
-        - [Constraints](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#constraints)
-    - [Use Cases](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#use-cases)
-        - [Use Case Diagram](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#use-case-diagram)
-        - [Use Case Narratives](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#use-case-narratives)
-    - [Functional Decomposition Diagram](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#functional-decomposition-diagram)
-    - [Data Flow Diagram](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#data-flow-diagram)
-        - [Level 0: Context Diagram](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#level-0-context-diagram)
-        - [Level 1: Main Subsystems](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#level-1-main-subsystems)
-        - [Level 2: Main Subsystem Details](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#level-2-main-subsystem-details)
-            - [Level 2: [3] Manage Train Booking](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably#level-2-3-manage-train-booking)
+- [About Us](https://github.com/rektplorer64/ITCS371-PJ_Brobably#about-us)
+    - [Problems](https://github.com/rektplorer64/ITCS371-PJ_Brobably#problems)
+    - [Wishlist](https://github.com/rektplorer64/ITCS371-PJ_Brobably#wishlist)
+    - [Our Members](https://github.com/rektplorer64/ITCS371-PJ_Brobably#our-members)
+- [Customer 7 - Please Give A](https://github.com/rektplorer64/ITCS371-PJ_Brobably#customer-7---please-give-a)
+    - [Business Domain](https://github.com/rektplorer64/ITCS371-PJ_Brobably#business-domain)
+    - [Requirements](https://github.com/rektplorer64/ITCS371-PJ_Brobably#requirements)
+        - [Functional Requirements](https://github.com/rektplorer64/ITCS371-PJ_Brobably#functional-requirements)
+            - [Overall](https://github.com/rektplorer64/ITCS371-PJ_Brobably#overall)
+            - [📱 Mobile Application](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-mobile-application)
+            - [💻 Website](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-website)
+            - [🎫 Booking System](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-booking-system)
+            - [🚇 Metro Train Check-in/out System](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-metro-train-check-inout-system)
+            - [⚙ Server](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-server)
+            - [❔ Other](https://github.com/rektplorer64/ITCS371-PJ_Brobably#-other)
+        - [Non-functional Requirements](https://github.com/rektplorer64/ITCS371-PJ_Brobably#non-functional-requirements)
+        - [Constraints](https://github.com/rektplorer64/ITCS371-PJ_Brobably#constraints)
+    - [Use Cases](https://github.com/rektplorer64/ITCS371-PJ_Brobably#use-cases)
+        - [Use Case Diagram](https://github.com/rektplorer64/ITCS371-PJ_Brobably#use-case-diagram)
+        - [Use Case Narratives](https://github.com/rektplorer64/ITCS371-PJ_Brobably#use-case-narratives)
+    - [Functional Decomposition Diagram](https://github.com/rektplorer64/ITCS371-PJ_Brobably#functional-decomposition-diagram)
+    - [Data Flow Diagram](https://github.com/rektplorer64/ITCS371-PJ_Brobably#data-flow-diagram)
+        - [Level 0: Context Diagram](https://github.com/rektplorer64/ITCS371-PJ_Brobably#level-0-context-diagram)
+        - [Level 1: Main Subsystems](https://github.com/rektplorer64/ITCS371-PJ_Brobably#level-1-main-subsystems)
+        - [Level 2: Main Subsystem Details](https://github.com/rektplorer64/ITCS371-PJ_Brobably#level-2-main-subsystem-details)
+            - [Level 2: [3] Manage Train Booking](https://github.com/rektplorer64/ITCS371-PJ_Brobably#level-2-3-manage-train-booking)
 
 ## About Us
 Brobably's business domain is Postal Service. We are a Thai posting company that wants to integrate technology into our manual service. We have several distribution centers around the country.
@@ -245,13 +245,13 @@ We emphasize on requirement types as follows:
 The following list accumulates all known use cases for customer requirements. All narratives are grouped by aspects of the system.
 
 ##### User Account
-- [Register or Create an Account](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably/wiki/Use-Case-Narratives-1:-User-Account#register-or-create-an-account)
-- [Login with an account](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably/wiki/Use-Case-Narratives-1:-User-Account#login-with-an-account)
+- [Register or Create an Account](https://github.com/rektplorer64/ITCS371-PJ_Brobably/wiki/Use-Case-Narratives-1:-User-Account#register-or-create-an-account)
+- [Login with an account](https://github.com/rektplorer64/ITCS371-PJ_Brobably/wiki/Use-Case-Narratives-1:-User-Account#login-with-an-account)
 ##### Payment
-- [Add payment methods](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably/wiki/Use-Case-Narratives-2:-Payment#add-payment-methods)
-- [Pay fee charge](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably/wiki/Use-Case-Narratives-2:-Payment#add-payment-methods)
+- [Add payment methods](https://github.com/rektplorer64/ITCS371-PJ_Brobably/wiki/Use-Case-Narratives-2:-Payment#add-payment-methods)
+- [Pay fee charge](https://github.com/rektplorer64/ITCS371-PJ_Brobably/wiki/Use-Case-Narratives-2:-Payment#add-payment-methods)
 ##### Train Travel
-- [Book a ticket](https://github.com/ICT-Mahidol/2019-ITCS371-1-Brobably/wiki/Use-Case-Narratives-3:-Train-Travel#book-a-ticket)
+- [Book a ticket](https://github.com/rektplorer64/ITCS371-PJ_Brobably/wiki/Use-Case-Narratives-3:-Train-Travel#book-a-ticket)
 
 ---
 
